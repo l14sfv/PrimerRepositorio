@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:36:16.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FrZn_5O1GfLAi8-pW_U3" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T18:36:29.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TQfZFpA96IMPTf9HpcR8" version="20.4.1" type="github" pages="2">
   <diagram id="UtNaahCvAxEFFnW9XZRR" name="Diagrama ER">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g-ikP12OJB8Uegb8zvFt-5" value="PRODUCTOS" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="370" width="160" height="120" as="geometry" />
+          <mxGeometry x="334" y="370" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g-ikP12OJB8Uegb8zvFt-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="g-ikP12OJB8Uegb8zvFt-5">
           <mxGeometry y="30" width="160" height="30" as="geometry" />
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w8dkaBKKbQI2vl5DhQTA-1" value="DETALLE_PROD_FACTURA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="280" width="220" height="130" as="geometry" />
+          <mxGeometry x="580" y="260" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="w8dkaBKKbQI2vl5DhQTA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
