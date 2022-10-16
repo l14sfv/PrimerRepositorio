@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:35:28.431Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="xAzA7clg24pDTZODdyBy" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-16T18:36:16.998Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="FrZn_5O1GfLAi8-pW_U3" version="20.4.1" type="github" pages="2">
   <diagram id="UtNaahCvAxEFFnW9XZRR" name="Diagrama ER">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -459,7 +459,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w8dkaBKKbQI2vl5DhQTA-1" value="DETALLE_PROD_FACTURA" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
-          <mxGeometry x="790" y="280" width="220" height="160" as="geometry" />
+          <mxGeometry x="790" y="280" width="220" height="130" as="geometry" />
         </mxCell>
         <mxCell id="w8dkaBKKbQI2vl5DhQTA-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-1">
           <mxGeometry y="30" width="220" height="30" as="geometry" />
@@ -500,18 +500,11 @@
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8dkaBKKbQI2vl5DhQTA-11" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-1">
-          <mxGeometry y="120" width="220" height="30" as="geometry" />
+        <mxCell id="vzs8Evq55TUUoJlg36Z0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="ubylUiB9OkTtoUIC6yUz-34" target="w8dkaBKKbQI2vl5DhQTA-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w8dkaBKKbQI2vl5DhQTA-12" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-11">
-          <mxGeometry width="60" height="30" as="geometry">
-            <mxRectangle width="60" height="30" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="w8dkaBKKbQI2vl5DhQTA-13" value="Row 4" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-11">
-          <mxGeometry x="60" width="160" height="30" as="geometry">
-            <mxRectangle width="160" height="30" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="vzs8Evq55TUUoJlg36Z0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERone;startFill=0;endArrow=ERoneToMany;endFill=0;" edge="1" parent="1" source="g-ikP12OJB8Uegb8zvFt-6" target="w8dkaBKKbQI2vl5DhQTA-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
