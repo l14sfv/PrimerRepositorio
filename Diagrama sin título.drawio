@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T18:36:29.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="TQfZFpA96IMPTf9HpcR8" version="20.4.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-10-17T06:16:39.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="OtytivDbAPwMx5s9wuyD" version="20.4.1" type="github" pages="2">
   <diagram id="UtNaahCvAxEFFnW9XZRR" name="Diagrama ER">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -427,7 +427,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g-ikP12OJB8Uegb8zvFt-8" value="cod_producto" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="g-ikP12OJB8Uegb8zvFt-6">
+        <mxCell id="g-ikP12OJB8Uegb8zvFt-8" value="codigo_prod" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="g-ikP12OJB8Uegb8zvFt-6">
           <mxGeometry x="30" width="130" height="30" as="geometry">
             <mxRectangle width="130" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -482,7 +482,7 @@
             <mxRectangle width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w8dkaBKKbQI2vl5DhQTA-7" value="cod_producto" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-5">
+        <mxCell id="w8dkaBKKbQI2vl5DhQTA-7" value="codigo_prod" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;" vertex="1" parent="w8dkaBKKbQI2vl5DhQTA-5">
           <mxGeometry x="60" width="160" height="30" as="geometry">
             <mxRectangle width="160" height="30" as="alternateBounds" />
           </mxGeometry>
